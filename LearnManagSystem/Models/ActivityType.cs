@@ -13,7 +13,6 @@ namespace LearnManagSystem.Models
 
             [Required]
          public string Name { get; set; }
-
-        
+     
     }
 }
